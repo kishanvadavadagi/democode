@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: #364958;
+    height: 70px;
+    border: 1px double hsl(0, 0%, 5%);
+    border-radius: 50px;
+}
+.homestyle{
+    border: 1px solid black;
+    border-radius: 25px;
+    margin-top: 25px;
+    min-height: 300px;
+}
+.footerstyling{
+    width: 100%;
+    min-height: 90px;
+    background-color: #364958;
+    border-radius: 25px;
+}
+.footerstyling >h1{
+    color: white;
+    text-align: center;
+}
+.socialmedia > a{
+    color: white;
+    padding-left: 10px;
+} 
+.button{
+    margin-left: 80px;
+    padding: 10px;
+    background-color: #C9E4CA;
+    border: 2px solid black;
+    border-radius: 30px;
+}
